@@ -1,0 +1,14 @@
+央视频道,#genre#
+CCTV-1
+CCTV-2
+CCTV-3
+CCTV-4
+CCTV-5
+CCTV-6
+CCTV-8
+卫视频道,#genre#
+湖南卫视
+浙江卫视
+江苏卫视
+东方卫视
+北京卫视
